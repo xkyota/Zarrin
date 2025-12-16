@@ -1,0 +1,39 @@
+header {
+	height: 98px;
+
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+
+    padding-right: 102px;
+    padding-left: 102px;
+}
+
+.container {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.logo-wrapper {
+	width: 156.967px;
+	gap: 15px 12px;
+
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.logo-wrapper > img {
+	width: 43.851px;
+	height: 43.804px;
+}
+
+.logo-wrapper > span {
+	color: #333;
+	font-family: "Raleway", sans-serif;
+	font-size: 33.696px;
+	font-style: normal;
+	font-weight: 800;
+	line-height: normal;
+}
