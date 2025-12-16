@@ -38,7 +38,8 @@ nav > svg {
 }
 
 .constactUs-button {
-	border-radius: 8px;
+	border-radius: 8px;    
+    padding-left: 36px;
 	background: #7c4ee4;
 	border: none;
 
