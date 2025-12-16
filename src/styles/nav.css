@@ -1,0 +1,60 @@
+nav {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.links-list {
+	list-style-type: none;
+
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+	gap: 58px;
+}
+
+.links-list > li {
+	padding: 0;
+	margin: 0;
+}
+
+.links-nav {
+	text-decoration: none;
+	color: #333;
+	font-family: "Raleway", sans-serif;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: 500;
+	line-height: 150%;
+}
+
+.links-nav:hover {
+	color: #7c4ee4;
+}
+
+nav > svg {
+	padding-left: 42px;
+}
+
+.constactUs-button {
+	border-radius: 8px;
+	background: #7c4ee4;
+	border: none;
+
+	display: inline-flex;
+	padding: 16px 48px;
+	justify-content: flex-end;
+	align-items: center;
+	gap: 10px;
+
+	color: #fff;
+	text-align: center;
+	font-family: "Raleway", sans-serif;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: 600;
+	line-height: 150%; 
+
+    margin: 39px;
+}
