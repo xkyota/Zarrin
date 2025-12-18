@@ -10,6 +10,6 @@ import Nav from './components/Nav';
 createRoot(document.getElementById('root')).render(
   <StrictMode>
     <Header />
-    <Nav/>
-  </StrictMode>,
+    <Nav />
+  </StrictMode>
 )
