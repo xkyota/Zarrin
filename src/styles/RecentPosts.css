@@ -183,24 +183,20 @@ recent-posts__header {
 }
 
 
-body{
-    background: black;
-}
-
 @media (max-width:1024px) {
-    body{
+    /* body{
         background: red;
-    }
+    } */
 }
 
 @media (max-width: 764px) { 
-    body{ 
+    /* body{ 
         background: violet;
-    }
+    } */
 }
 
 @media (max-width: 375px) {
-    body{ 
+    /* body{ 
         background: pink;
-    }
+    } */
 }
